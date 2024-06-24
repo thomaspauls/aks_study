@@ -30,7 +30,7 @@ spec:
             - name: DB_PORT
               value: "3306"            
             - name: DB_NAME
-              value: "webappdb"            
+              value: "tomsakswebappdb"            
             - name: DB_USERNAME
               value: "dbadmin@tomsakswebappdb"            
             - name: DB_PASSWORD
